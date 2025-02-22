@@ -1,0 +1,9 @@
+event HudLowAmmoPulse
+{
+}
+event HudLowAmmoPulseLoop
+{
+}
+event HudLowAmmoPulseStop
+{
+}

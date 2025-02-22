@@ -1,6 +1,7 @@
 hudanimations_manifest
 {
 	"file"		"scripts/hudanimations.txt"
+	"file"		"_custom/scripts/hudanimations_ammo.txt"
 	"file"		"_custom/scripts/hudanimations_survey.txt"
 	"file"		"_extras/scripts/hudanimations_custom.txt"
 	"file"		"_fixes/scripts/hudanimations_custom.txt"
