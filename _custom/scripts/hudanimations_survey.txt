@@ -1,0 +1,10 @@
+event SurveyShowSequence
+{
+	RunEventChild Survey SurveyDelete 0
+}
+event SurveySubmitSequence
+{
+}
+event SurveyHideSequence
+{
+}
