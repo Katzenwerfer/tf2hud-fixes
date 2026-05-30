@@ -23,9 +23,10 @@
 		}
 
 		"AvatarImage"
-		{
+		{			
 			"xpos"			"45"
-		}	
+			"zpos"			"1"
+		}
 
 		"FreezePanelHealth"
 		{
