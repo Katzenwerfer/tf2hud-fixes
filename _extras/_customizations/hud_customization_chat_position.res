@@ -81,23 +81,6 @@
 						"paintbackground"					"0"
 						"paintbackgroundtype"				"0"
 					}
-					"Chat_Position_Image"
-					{
-						"ControlName"						"ImagePanel"
-						"fieldName"							"Chat_Position_Image"
-						"xpos"								"cs-0.5"
-						"ypos"								"cs-0.5+7"
-						"zpos"								"6"
-						"wide"								"44"
-						"tall"								"40"
-						"visible"							"1"
-						"enabled"							"1"
-						"mouseinputenabled"					"0"
-						"scaleImage"						"1"
-						"proportionaltoparent"				"1"
-						// TODO: ADD IMAGE
-						"image"								""
-					}
 					"Chat_Position_Button"
 					{
 						"ControlName"						"CExButton"
@@ -110,8 +93,9 @@
 						"visible"							"1"
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
-						"labelText"							""
-						"font"								""
+						"labelText"							"L"
+						"font"								"ItemFontNameSmall"
+						"textAlignment"						"center"
 						"command"							"engine hud_chat_position_default"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
@@ -158,23 +142,6 @@
 						"paintbackground"					"0"
 						"paintbackgroundtype"				"0"
 					}
-					"Chat_Position_Image"
-					{
-						"ControlName"						"ImagePanel"
-						"fieldName"							"Chat_Position_Image"
-						"xpos"								"cs-0.5"
-						"ypos"								"cs-0.5+7"
-						"zpos"								"6"
-						"wide"								"44"
-						"tall"								"40"
-						"visible"							"1"
-						"enabled"							"1"
-						"mouseinputenabled"					"0"
-						"scaleImage"						"1"
-						"proportionaltoparent"				"1"
-						// TODO: ADD IMAGE
-						"image"								""
-					}
 					"Chat_Position_Button"
 					{
 						"ControlName"						"CExButton"
@@ -187,8 +154,9 @@
 						"visible"							"1"
 						"enabled"							"1"
 						"proportionaltoparent"				"1"
-						"labelText"							""
-						"font"								""
+						"labelText"							"C"
+						"font"								"ItemFontNameSmall"
+						"textAlignment"						"center"
 						"command"							"engine hud_chat_position_center"
 						"actionsignallevel"					"5"
 						"sound_depressed"					"UI/buttonclick.wav"
