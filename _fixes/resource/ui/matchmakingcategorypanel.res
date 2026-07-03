@@ -11,8 +11,8 @@
 	{
 		"EntryToggleButton"
 		{
-			"use_proportional_insets"	"1"
 			"textinsetx"				"18"
+			"use_proportional_insets"	"1"
 		}
 	}
 }
