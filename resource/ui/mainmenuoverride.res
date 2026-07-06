@@ -1,3 +1,4 @@
+#base	"../../_custom/resource/ui/mainmenuoverride.res"
 #base	"../../_extras/_customizations/hud_customization.res"
 #base	"../../_extras/resource/ui/mainmenuoverride.res"
 #base	"../../_fixes/resource/ui/mainmenuoverride.res"
