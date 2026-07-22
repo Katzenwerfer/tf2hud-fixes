@@ -16,7 +16,7 @@
 		"ypos"				"0"
 		"wide"				"f0"
 		"tall"				"480"
-		"image"				"replay/thumbnails/transparent"
+		"image"				"replay/thumbnails/transparent_128"
 		"scaleImage"		"1"
 	}
 }
