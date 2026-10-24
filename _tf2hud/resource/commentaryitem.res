@@ -1,4 +1,4 @@
-"resource/commentaryitem.res"
+"Resource\CommentaryItem.res"
 {
 	"CommentaryItemPanel"
 	{

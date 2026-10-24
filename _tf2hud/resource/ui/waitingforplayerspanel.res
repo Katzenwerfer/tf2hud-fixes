@@ -1,4 +1,4 @@
-"resource/ui/waitingforplayerspanel.res"
+"Resource/UI/WaitingForPlayersPanel.res"
 {
 	"WaitingForPlayersPanelBG"
 	{

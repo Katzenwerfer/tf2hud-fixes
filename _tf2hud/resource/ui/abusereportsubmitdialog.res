@@ -1,4 +1,4 @@
-"resource/ui/abusereportsubmitdialog.res"
+"Resource/UI/AbuseReportSubmitDialog.res"
 {
 	"AbuseReportSubmitDialog"
 	{

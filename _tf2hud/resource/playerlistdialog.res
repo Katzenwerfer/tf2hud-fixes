@@ -1,4 +1,4 @@
-"resource/playerlistdialog.res"
+"Resource/PlayerListDialog.res"
 {
 	"PlayerListDialog"
 	{

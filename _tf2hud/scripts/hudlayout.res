@@ -1,4 +1,4 @@
-"resource/hudlayout.res"
+"Resource/HudLayout.res"
 {
 	HudPlayerStatus
 	{
@@ -861,11 +861,6 @@
 		"enabled"				"1"
 		"icon_space"			"2"
 	}
-	
-	HUDAutoAim
-	{
-
-	}	
 	
 	HudHDRDemo
 	{

@@ -1,4 +1,4 @@
-"resource/newgamedialog.res"	[$WIN32]
+"Resource/NewGameDialog.res"	[$WIN32]
 {
 	"NewGameDialog"
 	{
@@ -130,7 +130,7 @@
 	}
 }
 
-"resource/newgamedialog.res"	[$X360]
+"Resource/NewGameDialog.res"	[$X360]
 {
 	"NewGameDialog"
 	{

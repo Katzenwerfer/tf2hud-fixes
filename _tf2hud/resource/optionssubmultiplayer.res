@@ -1,4 +1,4 @@
-"resource/optionssubmultiplayer.res"
+"Resource/OptionsSubMultiplayer.res"
 {
 	"OptionsSubMultiplayer"
 	{

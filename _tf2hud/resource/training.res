@@ -1,4 +1,4 @@
-"resource/training.res"
+"Resource\training.res"
 {
 	"soldier"
 	{

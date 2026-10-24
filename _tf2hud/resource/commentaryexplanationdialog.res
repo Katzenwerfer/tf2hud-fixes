@@ -1,4 +1,4 @@
-"resource/commentaryexplanationdialog.res"
+"Resource/CommentaryExplanationDialog.res"
 {
 	"CommentaryExplanationDialog"
 	{

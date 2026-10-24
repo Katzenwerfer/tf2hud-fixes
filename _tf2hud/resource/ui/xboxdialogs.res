@@ -4,7 +4,7 @@
 // expensive DVD access every time a new UI dialog is opened.
 //----------------------------------------------------------------------------------------
 
-"resource/xboxdialogs.res"
+"resource/XboxDialogs.res"
 {
 
 //--------------------------------------

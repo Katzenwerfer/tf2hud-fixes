@@ -1,4 +1,4 @@
-"resource/loadingdialog.res"
+"Resource/LoadingDialog.res"
 {
 	"LoadingDialog"
 	{

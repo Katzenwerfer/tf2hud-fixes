@@ -1,4 +1,4 @@
-"resource/newgamechapterpanel.res"
+"Resource/NewGameChapterPanel.res"
 {
 	"LevelPicBorder"
 	{

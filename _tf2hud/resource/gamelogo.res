@@ -1,4 +1,4 @@
-"resource/gamelogo.res"
+"Resource/GameLogo.res"
 {
 	"GameLogo"
 	{

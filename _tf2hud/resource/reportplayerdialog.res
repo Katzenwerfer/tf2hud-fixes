@@ -1,4 +1,4 @@
-"resource/reportplayerdialog.res"
+"Resource/ReportPlayerDialog.res"
 {
 	"ReportPlayerDialog"
 	{

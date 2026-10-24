@@ -1,4 +1,4 @@
-"resource/ui/vrcalibration.res"
+"Resource/UI/VRCalibration.res"
 {
 	"Background"
 	{

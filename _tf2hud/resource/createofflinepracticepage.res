@@ -1,4 +1,4 @@
-"resource/createofflinepracticepage.res"
+"Resource/CreateOfflinePracticePage.res"
 {
 	"ServerPage"
 	{
