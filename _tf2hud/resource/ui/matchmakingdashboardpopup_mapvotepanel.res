@@ -1,4 +1,4 @@
-"resource/ui/matchmakingdashboardpopup_mapvotepanel.res"
+"Resource/UI/MatchMakingDashboardPopup_MapVotePanel.res"
 {
 	"MapImageClip"
 	{

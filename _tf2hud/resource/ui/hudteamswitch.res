@@ -1,4 +1,4 @@
-"resource/ui/hudteamswitch.res"
+"Resource/UI/HudTeamSwitch.res"
 {
 	"HudTeamSwitchBG"
 	{

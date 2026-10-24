@@ -1,4 +1,4 @@
-"resource/ui/dynamicrecipe.res"
+"Resource/UI/DynamicRecipe.res"
 {
 	"dynamic_recipe_panel"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/surveypanel_base.res"
+"Resource/UI/SurveyPanel_Base.res"
 {
 	"Survey"
 	{

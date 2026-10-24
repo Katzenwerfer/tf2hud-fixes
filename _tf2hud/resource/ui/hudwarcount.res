@@ -1,4 +1,4 @@
-"resource/ui/hudwarcount.res"
+"Resource/UI/HudWarCount.res"
 {
 	"background"
 	{

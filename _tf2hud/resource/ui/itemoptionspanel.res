@@ -1,4 +1,4 @@
-"resource/ui/itemoptionspanel.res"
+"Resource/UI/ItemOptionsPanel.res"
 {
 	"PanelListPanel"
 	{

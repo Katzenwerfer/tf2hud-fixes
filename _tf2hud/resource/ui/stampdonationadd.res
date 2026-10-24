@@ -1,4 +1,4 @@
-"resource/ui/stampdonationadd.res"
+"Resource/UI/StampDonationAdd.res"
 {
 	"ConfirmDialog"
 	{

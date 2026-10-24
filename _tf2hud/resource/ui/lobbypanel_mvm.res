@@ -1,6 +1,6 @@
-#base "lobbypanel.res"
+#base "LobbyPanel.res"
 
-"resource/ui/lobbypanel.res"
+"Resource/UI/LobbyPanel.res"
 {
 	"LobbyPanel"
 	{

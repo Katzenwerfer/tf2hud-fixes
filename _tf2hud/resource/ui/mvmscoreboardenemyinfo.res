@@ -1,4 +1,4 @@
-"resource/ui/mvmscoreboardenemyinfo.res"
+"Resource/UI/MvMScoreboardEnemyInfo.res"
 {	
 	"Background"
 	{

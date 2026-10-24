@@ -1,6 +1,6 @@
 #base "base.res"
 
-"resource/ui/disguise_menu/demoman_blue.res"
+"Resource/UI/disguise_menu/demoman_blue.res"
 {
 	"ItemNameLabel"
 	{	

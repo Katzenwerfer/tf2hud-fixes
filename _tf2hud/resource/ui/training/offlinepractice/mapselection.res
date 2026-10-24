@@ -1,4 +1,4 @@
-"resource/training/offlinepractice/mapselection.res"
+"Resource/training/offlinepractice/mapselection.res"
 {
 	"MapImagePanel"
 	{

@@ -1,6 +1,6 @@
-#Base "storeprice.res"
+#Base "StorePrice.res"
 
-"resource/ui/storeprice_new.res"
+"Resource/UI/StorePrice_New.res"
 {
 	// Override base font settings
 	"Price"

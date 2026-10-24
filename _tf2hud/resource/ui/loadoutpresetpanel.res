@@ -1,4 +1,4 @@
-"resource/ui/loadoutpresetpanel.res"
+"Resource/UI/LoadoutPresetPanel.res"
 {
 	"loadout_preset_panel"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/quests/cyoa/questmapregionlink.res"
+"Resource/UI/Quests/CYOA/QuestMapRegionLink.res"
 {
 	"Link"
 	{

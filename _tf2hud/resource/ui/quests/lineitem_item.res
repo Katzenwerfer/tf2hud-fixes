@@ -1,4 +1,4 @@
-"resource/ui/quests/lineitem_item.res"
+"Resource/UI/Quests/LineItem_Item.res"
 {	
 	"Item"
 	{

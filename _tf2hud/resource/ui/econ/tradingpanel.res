@@ -1,4 +1,4 @@
-"resource/ui/tradingpanel.res"
+"Resource/UI/TradingPanel.res"
 {
 	"trading_panel"
 	{

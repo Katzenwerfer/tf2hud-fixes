@@ -1,4 +1,4 @@
-"resource/ui/matchmakingdashboardpopup_newmatch.res"
+"Resource/UI/MatchMakingDashboardPopup_NewMatch.res"
 {
 	"NewMatchFound"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/hudobjectiveplayerdestruction.res"
+"Resource/UI/HudObjectivePlayerDestruction.res"
 {	
 	"ObjectiveStatusRobotDestruction"
 	{

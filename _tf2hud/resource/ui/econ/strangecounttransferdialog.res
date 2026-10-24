@@ -1,4 +1,4 @@
-"resource/ui/econ/strangecounttransferdialog.res"
+"Resource/UI/econ/StrangeCountTransferDialog.res"
 {
 	"StrangeCountTrasnferDialog"
 	{

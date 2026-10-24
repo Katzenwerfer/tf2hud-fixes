@@ -1,4 +1,4 @@
-"resource/ui/lobbypanel.res"
+"Resource/UI/LobbyPanel.res"
 {
 	"LobbyPanel"
 	{

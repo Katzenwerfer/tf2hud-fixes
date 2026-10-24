@@ -1,4 +1,4 @@
-"resource/ui/hudobjectiveflagpanel.res"
+"Resource/UI/HudObjectiveFlagPanel.res"
 {	
 	"ObjectiveStatusFlagPanel"
 	{

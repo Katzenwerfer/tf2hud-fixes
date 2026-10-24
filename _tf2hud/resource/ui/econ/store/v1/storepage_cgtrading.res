@@ -1,4 +1,4 @@
-"resource/ui/storepage_gctrading.res"
+"Resource/UI/StorePage_GCTrading.res"
 {
 	"StorePage"
 	{

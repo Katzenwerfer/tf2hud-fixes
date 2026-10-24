@@ -1,4 +1,4 @@
-"resource/ui/storeprice.res"
+"Resource/UI/StorePrice.res"
 {
 	"StorePrice"
 	{

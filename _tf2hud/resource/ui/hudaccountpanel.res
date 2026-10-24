@@ -1,4 +1,4 @@
-"resource/ui/hudaccountpanel.res"
+"Resource/UI/HudAccountPanel.res"
 {
 	"CHudAccountPanel"
 	{

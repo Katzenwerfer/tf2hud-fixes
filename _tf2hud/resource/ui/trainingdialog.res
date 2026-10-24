@@ -1,4 +1,4 @@
-"resource/trainingdialog.res"
+"Resource/TrainingDialog.res"
 {
 	"TrainingDialog"
 	{

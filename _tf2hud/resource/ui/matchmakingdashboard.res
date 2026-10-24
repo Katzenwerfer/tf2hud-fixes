@@ -1,4 +1,4 @@
-"resource/ui/matchmakingdashboard.res"
+"Resource/UI/MatchMakingDashboard.res"
 {
 	"MMDashboard"
 	{

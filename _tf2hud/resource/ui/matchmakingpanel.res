@@ -1,4 +1,4 @@
-"resource/ui/econ/matchmakingpanel.res"
+"Resource/UI/econ/MatchMakingPanel.res"
 {
 	"MatchMaking"
 	{

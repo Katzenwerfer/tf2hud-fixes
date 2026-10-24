@@ -1,4 +1,4 @@
-"resource/steamworkshopitem.res"
+"Resource/SteamWorkshopItem.res"
 {
 	"SteamWorkshopItem"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/supportnotificationdialog.res"
+"Resource/UI/SupportNotificationDialog.res"
 {
 	"ConfirmDialog"
 	{

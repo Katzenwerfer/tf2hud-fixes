@@ -1,4 +1,4 @@
-"resource/ui/confirmtransmogrifyapplicationdialog.res"
+"Resource/UI/ConfirmTransmogrifyApplicationDialog.res"
 {
 	"ConfirmTransmogrifyApplicationDialog"
 	{

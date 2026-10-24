@@ -1,4 +1,4 @@
-"resource/ui/mvmvictorycontainer.res"
+"Resource/UI/MvMVictoryContainer.res"
 {
 	"Background"
 	{

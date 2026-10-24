@@ -1,4 +1,4 @@
-"resource/ui/matchmakingtooltip.res"
+"Resource/UI/MatchMakingTooltip.res"
 {
 	"TooltipPanel"
 	{

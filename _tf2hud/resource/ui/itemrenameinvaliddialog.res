@@ -1,4 +1,4 @@
-"resource/ui/itemrenameinvaliddialog.res"
+"Resource/UI/ItemRenameInvalidDialog.res"
 {
 	// Need to be named ItemRenameConfirmationDialog, because it uses the same base confirmation dialog in code
 	"ItemRenameConfirmationDialog"

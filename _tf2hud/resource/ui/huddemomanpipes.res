@@ -1,4 +1,4 @@
-"resource/ui/huddemomanpipes.res"
+"Resource/UI/HudDemomanPipes.res"
 {
 	"background"
 	{

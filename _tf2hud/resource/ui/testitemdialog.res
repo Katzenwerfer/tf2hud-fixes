@@ -1,4 +1,4 @@
-"resource/ui/testitemdialog.res"
+"Resource/UI/TestItemDialog.res"
 {
 	"TestItemDialog"
 	{

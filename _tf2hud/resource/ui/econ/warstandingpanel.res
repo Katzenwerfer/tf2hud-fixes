@@ -1,4 +1,4 @@
-"resource/ui/warstandintpanel.res"
+"Resource/UI/WarStandintPanel.res"
 {
 	
 	"Team0Container"

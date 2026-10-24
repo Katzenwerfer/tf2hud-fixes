@@ -1,4 +1,4 @@
-"resource/ui/layeredmappaneltooltip.res"
+"Resource/UI/LayeredMapPanelToolTip.res"
 {		
 	
 }

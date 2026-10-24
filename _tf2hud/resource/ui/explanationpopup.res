@@ -1,4 +1,4 @@
-"resource/ui/explanationpopup.res"
+"Resource/UI/ExplanationPopup.res"
 {
 	"TitleLabel"
 	{

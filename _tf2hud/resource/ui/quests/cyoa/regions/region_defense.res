@@ -1,6 +1,6 @@
 #base "region_base.res"
 
-"resource/ui/quests/cyoa/regions/region_defense.res"
+"Resource/ui/quests/CYOA/regions/region_defense.res"
 {	
 	"Region"
 	{

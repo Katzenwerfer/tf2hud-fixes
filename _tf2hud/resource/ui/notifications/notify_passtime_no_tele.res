@@ -1,6 +1,6 @@
 #base "base_notification.res"
 
-"resource/ui/notifications/notify_passtime_no_tele.res"
+"Resource/UI/notifications/notify_passtime_no_tele.res"
 {	
 	"Notification_Background"
 	{

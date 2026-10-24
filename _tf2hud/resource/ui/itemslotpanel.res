@@ -1,4 +1,4 @@
-"resource/ui/itemslotpanel.res"
+"Resource/UI/ItemSlotPanel.res"
 {
 	"item_slot_panel"
 	{

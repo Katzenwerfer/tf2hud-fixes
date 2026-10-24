@@ -1,4 +1,4 @@
-"resource/ui/mainmenuplaylistentry.res"
+"Resource/UI/MainMenuPlayListEntry.res"
 {
 	"ModeImage"
 	{

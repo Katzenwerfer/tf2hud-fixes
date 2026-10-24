@@ -1,4 +1,4 @@
-"resource/ui/lobbyleaderboard.res"
+"Resource/UI/LobbyLeaderboard.res"
 {
 	"BookPage"
 	{

@@ -1,4 +1,4 @@
-"resource/trainingclasspanel.res"
+"Resource/TrainingClassPanel.res"
 {
 	"TrainingItemPanel"
 	{

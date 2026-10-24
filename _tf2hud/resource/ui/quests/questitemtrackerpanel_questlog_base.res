@@ -1,6 +1,6 @@
-#base "questitemtrackerpanel_base.res"
+#base "QuestItemTrackerPanel_Base.res"
 
-"resource/ui/hudachievementtrackeritem.res"
+"Resource/UI/HudAchievementTrackerItem.res"
 {	
 	"ItemTrackerPanel"
 	{
@@ -14,7 +14,7 @@
 		"attrib_y_step"	"5"
 		"map_view"	"1"
 
-		"item_attribute_res_file"			"resource/ui/quests/questobjectivepanel_questlog_base.res"
+		"item_attribute_res_file"			"resource/UI/quests/QuestObjectivePanel_QuestLog_Base.res"
 		"progress_bar_standard_loc_token"	"#QuestPoints_Standard"
 		"progress_bar_advanced_loc_token"	"#QuestPoints_Bonus"
 	}

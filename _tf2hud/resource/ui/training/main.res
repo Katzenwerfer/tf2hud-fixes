@@ -1,4 +1,4 @@
-"resource/training/main.res"
+"Resource/training/main.res"
 {
 	"TrainingDialog"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/quests/cyoa/regions/region_base.res"
+"Resource/UI/quests/CYOA/regions/region_base.res"
 {
 	"Region"
 	{

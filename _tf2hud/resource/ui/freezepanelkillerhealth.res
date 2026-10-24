@@ -1,4 +1,4 @@
-"resource/ui/freezepanelkillerhealth.res"
+"Resource/UI/FreezePanelKillerHealth.res"
 {
 	"PlayerStatusHealthImage"
 	{

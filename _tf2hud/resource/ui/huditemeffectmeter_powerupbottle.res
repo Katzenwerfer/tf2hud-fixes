@@ -1,4 +1,4 @@
-"resource/ui/huditemeffectmeter_powerupbottles.res"
+"Resource/UI/HudItemEffectMeter_PowerupBottles.res"
 {
 	HudItemEffectMeter
 	{

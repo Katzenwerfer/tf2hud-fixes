@@ -1,4 +1,4 @@
-"resource/steamworkshopdialog.res"
+"Resource/SteamWorkshopDialog.res"
 {
 	"SteamWorkshopDialog"
 	{

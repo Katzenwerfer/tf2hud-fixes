@@ -1,4 +1,4 @@
-"resource/ui/hudobjectivekothtimepanel.res"
+"Resource/UI/HudObjectiveKothTimePanel.res"
 {	
 	"HudKothTimeStatus"
 	{

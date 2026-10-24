@@ -1,4 +1,4 @@
-"resource/ui/matchmakingdashboardpopup_nextmapwinner.res"
+"Resource/UI/MatchMakingDashboardPopup_NextMapWinner.res"
 {
 	"NextMapWinner"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/leaderboardentryrank.res"
+"Resource/UI/LeaderboardEntryRank.res"
 {
 	"LeaderboardEntry"
 	{

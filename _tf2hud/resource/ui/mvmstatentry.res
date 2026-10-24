@@ -1,4 +1,4 @@
-"resource/ui/mvmstatentry.res"
+"Resource/UI/MvMStatEntry.res"
 {	
 	"ItemLabel"
 	{

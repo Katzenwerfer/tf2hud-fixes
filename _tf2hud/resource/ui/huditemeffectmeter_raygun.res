@@ -1,4 +1,4 @@
-"resource/ui/huditemeffectmeter_raygun.res"
+"Resource/UI/HudItemEffectMeter_Raygun.res"
 {
 	HudItemEffectMeter
 	{

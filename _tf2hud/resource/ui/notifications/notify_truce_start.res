@@ -1,6 +1,6 @@
 #base "base_notification.res"
 
-"resource/ui/notifications/notify_truce_start.res"
+"Resource/UI/notifications/notify_truce_start.res"
 {	
 	"Notification_Background"
 	{

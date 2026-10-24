@@ -1,6 +1,6 @@
-#base "surveypanel_base.res"
+#base "SurveyPanel_Base.res"
 
-"resource/ui/surveypanel_matchquality.res"
+"Resource/UI/SurveyPanel_MatchQuality.res"
 {
 	"Survey"
 	{

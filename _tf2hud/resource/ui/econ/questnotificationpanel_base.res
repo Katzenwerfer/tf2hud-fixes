@@ -1,4 +1,4 @@
-"resource/ui/questnotificationpanel_base.res"
+"Resource/UI/QuestNotificationPanel_base.res"
 {
 	"QuestNotificationPanel"
 	{

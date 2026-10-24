@@ -1,4 +1,4 @@
-"resource/ui/streampanel.res"
+"Resource/UI/StreamPanel.res"
 {
 	"BGRect"
 	{

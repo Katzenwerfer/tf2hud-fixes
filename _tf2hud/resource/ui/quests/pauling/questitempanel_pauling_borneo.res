@@ -1,6 +1,6 @@
-#base "questitempanel_pauling_base.res"
+#base "QuestItemPanel_Pauling_Base.res"
 
-"resource/ui/econ/questitempanel_pauling_borneo.res"
+"Resource/UI/econ/QuestItemPanel_Pauling_Borneo.res"
 {
 	"QuestItemPanel"
 	{

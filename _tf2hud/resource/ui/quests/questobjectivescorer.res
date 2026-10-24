@@ -1,4 +1,4 @@
-"resource/ui/quests/questobjectivescorer.res"
+"Resource/UI/Quests/QuestObjectiveScorer.res"
 {	
 	"Scorer"
 	{

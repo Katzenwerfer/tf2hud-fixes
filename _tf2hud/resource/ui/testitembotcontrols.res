@@ -1,4 +1,4 @@
-"resource/ui/testitembotcontrols.res"
+"Resource/UI/TestItemBotControls.res"
 {
 	"TestItemBotControls"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/coachedbypanel.res"
+"Resource/UI/CoachedByPanel.res"
 {
 	"Background_Blue"
 	{

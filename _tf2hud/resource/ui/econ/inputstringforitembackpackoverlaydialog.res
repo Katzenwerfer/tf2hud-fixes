@@ -1,4 +1,4 @@
-"resource/ui/econ/inputstringforitembackpackoverlaydialog.res"
+"Resource/UI/econ/InputStringForItemBackpackOverlayDialog.res"
 {
 	"InputStringForItemBackpackOverlayDialog"
 	{

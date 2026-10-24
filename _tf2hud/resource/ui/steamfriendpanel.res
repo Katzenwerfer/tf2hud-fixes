@@ -1,4 +1,4 @@
-"resource/ui/steamfriendpanel.res"
+"Resource/UI/SteamFriendPanel.res"
 {	
 	"avatar"
 	{

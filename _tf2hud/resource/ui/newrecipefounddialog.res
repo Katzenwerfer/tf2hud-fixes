@@ -1,4 +1,4 @@
-"resource/ui/newrecipefounddialog.res"
+"Resource/UI/NewRecipeFoundDialog.res"
 {
 	"CraftingStatusDialog"
 	{

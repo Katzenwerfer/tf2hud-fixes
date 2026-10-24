@@ -1,4 +1,4 @@
-"resource/ui/econ/inspectionpanel_cosmetic.res"
+"Resource/UI/econ/InspectionPanel_Cosmetic.res"
 {
 	"storepreviewitem"
 	{

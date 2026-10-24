@@ -1,4 +1,4 @@
-"resource/ui/confirmapplypaintcandialog.res"
+"Resource/UI/ConfirmApplyPaintCanDialog.res"
 {
 	"ConfirmApplyPaintCanDialog"
 	{

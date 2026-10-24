@@ -1,4 +1,4 @@
-"resource/ui/controlpointicon.res"
+"Resource/UI/ControlPointIcon.res"
 {
 	"ControlPointIcon"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/mmvacissue.res"
+"Resource/UI/MMVacIssue.res"
 {
 	"ConfirmDialog"
 	{

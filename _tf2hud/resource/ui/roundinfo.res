@@ -1,4 +1,4 @@
-"resource/ui/roundinfo.res"
+"Resource/UI/RoundInfo.res"
 {
 	"roundinfo"
 	{

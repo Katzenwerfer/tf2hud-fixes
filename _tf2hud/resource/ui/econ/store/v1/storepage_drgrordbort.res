@@ -1,4 +1,4 @@
-"resource/ui/storepage_drgrordbort.res"
+"Resource/UI/StorePage_DrGrordbort.res"
 {
 	"StorePage"
 	{

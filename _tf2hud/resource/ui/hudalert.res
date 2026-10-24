@@ -1,4 +1,4 @@
-"resource/ui/hudalert.res"
+"Resource/UI/HudAlert.res"
 {
 	"HudAlertBG"
 	{

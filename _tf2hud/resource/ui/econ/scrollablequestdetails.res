@@ -1,4 +1,4 @@
-"resource/ui/econ/scrollablequestdetails.res"
+"Resource/UI/econ/ScrollableQuestDetails.res"
 {
 	"Container"
 	{

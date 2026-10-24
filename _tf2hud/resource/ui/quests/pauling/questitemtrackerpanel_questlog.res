@@ -1,10 +1,10 @@
-#base "../questitemtrackerpanel_questlog_base.res"
+#base "..\QuestItemTrackerPanel_QuestLog_Base.res"
 
-"resource/ui/hudachievementtrackeritem.res"
+"Resource/UI/HudAchievementTrackerItem.res"
 {	
 	"ItemTrackerPanel"
 	{
-		"item_attribute_res_file" "resource/ui/quests/pauling/questobjectivepanel_questlog.res"
+		"item_attribute_res_file" "resource/UI/quests/pauling/QuestObjectivePanel_QuestLog.res"
 		"progress_bar_standard_loc_token"	"#QuestPoints_Standard"
 		"progress_bar_advanced_loc_token"	"#QuestPoints_Bonus"
 	}

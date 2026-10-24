@@ -1,4 +1,4 @@
-"resource/ui/hudupgradepanel.res"
+"Resource/UI/HudUpgradePanel.res"
 {	
 	"HudUpgradePanel"
 	{

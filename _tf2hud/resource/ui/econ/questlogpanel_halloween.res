@@ -1,6 +1,6 @@
 #base QuestLogPanel.res
 
-"resource/ui/econ/questlogpanel.res"
+"Resource/UI/econ/QuestLogPanel.res"
 {
 	"QuestLog"
 	{

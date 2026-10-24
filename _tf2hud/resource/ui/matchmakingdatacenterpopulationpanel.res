@@ -1,4 +1,4 @@
-"resource/ui/matchmakingdatacenterpopulationpanel.res"
+"Resource/UI/MatchMakingDataCenterPopulationPanel.res"
 {
 	"DataCenterPopulationPanel"
 	{

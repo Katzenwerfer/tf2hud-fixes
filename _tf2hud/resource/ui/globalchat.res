@@ -1,4 +1,4 @@
-"resource/ui/globalchat.res"
+"Resource/UI/GlobalChat.res"
 {
 	"partychat"
 	{

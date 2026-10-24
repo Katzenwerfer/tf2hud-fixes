@@ -1,4 +1,4 @@
-"resource/ui/competitivewelcomedialog.res"
+"Resource/UI/CompetitiveWelcomeDialog.res"
 {
 	"ConfirmDialog"
 	{

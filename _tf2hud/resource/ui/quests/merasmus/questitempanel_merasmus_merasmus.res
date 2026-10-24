@@ -1,6 +1,6 @@
-#base "questitempanel_merasmus_base.res"
+#base "QuestItemPanel_Merasmus_Base.res"
 
-"resource/ui/econ/questitempanel_pauling_borneo.res"
+"Resource/UI/econ/QuestItemPanel_Pauling_Borneo.res"
 {
 	"QuestItemPanel"
 	{

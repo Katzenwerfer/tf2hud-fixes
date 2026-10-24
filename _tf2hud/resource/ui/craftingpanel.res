@@ -1,4 +1,4 @@
-"resource/ui/craftingpanel.res"
+"Resource/UI/CraftingPanel.res"
 {
 	"crafting_panel"
 	{

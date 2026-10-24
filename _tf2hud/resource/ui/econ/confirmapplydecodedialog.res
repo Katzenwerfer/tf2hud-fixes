@@ -1,4 +1,4 @@
-"resource/ui/confirmapplydecodedialog.res"
+"Resource/UI/ConfirmApplyDecodeDialog.res"
 {
 	"ConfirmApplyDecodeDialog"
 	{

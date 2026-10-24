@@ -1,4 +1,4 @@
-"resource/training/basictraining/classdetails.res"
+"Resource/training/basictraining/classdetails.res"
 {
 	"StartTrainingButton"
 	{

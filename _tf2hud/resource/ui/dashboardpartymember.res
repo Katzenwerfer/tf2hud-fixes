@@ -1,4 +1,4 @@
-"resource/ui/dashboardpartymember.res"
+"Resource/UI/DashboardPartyMember.res"
 {
 	"avatar"
 	{

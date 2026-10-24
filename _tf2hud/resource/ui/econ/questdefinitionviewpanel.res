@@ -1,4 +1,4 @@
-"resource/ui/questdefinitionviewpanel.res"
+"Resource/UI/QuestDefinitionViewPanel.res"
 {
 	"DebugButton"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/itemrenamedialog.res"
+"Resource/UI/ItemRenameDialog.res"
 {
 	"ItemRenameDialog"
 	{

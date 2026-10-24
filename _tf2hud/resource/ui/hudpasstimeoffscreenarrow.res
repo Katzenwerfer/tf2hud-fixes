@@ -1,4 +1,4 @@
-"resource/ui/hudpasstimeoffscreenarrow.res"
+"Resource/UI/HudPasstimeOffscreenArrow.res"
 {
 	"Image"
 	{

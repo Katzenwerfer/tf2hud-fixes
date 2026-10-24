@@ -1,4 +1,4 @@
-"resource/ui/mvmvictorypanel.res"
+"Resource/UI/MvMVictoryPanel.res"
 {
 	"StatsContainer"
 	{

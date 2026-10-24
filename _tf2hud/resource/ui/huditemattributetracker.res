@@ -1,4 +1,4 @@
-"resource/ui/hudachievementtrackeritem.res"
+"Resource/UI/HudAchievementTrackerItem.res"
 {	
 	"ItemAttributeTracker"
 	{

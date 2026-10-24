@@ -1,4 +1,4 @@
-"resource/ui/questmapnodetooltippanel.res"
+"Resource/UI/QuestMapNodeTooltipPanel.res"
 {
 	"QuestMapNodeTooltip"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/matchmakinggrouppanel.res"
+"Resource/UI/MatchmakingGroupPanel.res"
 {
 	"MatchmakingGroupPanel"
 	{

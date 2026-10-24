@@ -1,4 +1,4 @@
-"resource/ui/spectatorcoach.res"
+"Resource/UI/SpectatorCoach.res"
 {
 	"Spectator"
 	{

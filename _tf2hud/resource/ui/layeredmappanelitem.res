@@ -1,4 +1,4 @@
-"resource/ui/layeredmappanelitem.res"
+"Resource/UI/LayeredMapPanelItem.res"
 {		
 	"IsCompletedImage"
 	{

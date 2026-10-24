@@ -1,4 +1,4 @@
-"resource/ui/votehud.res"
+"Resource/UI/VoteHud.res"
 {	
 	"VotePassed"
 	{

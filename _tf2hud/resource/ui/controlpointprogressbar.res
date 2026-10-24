@@ -1,4 +1,4 @@
-"resource/ui/controlpointprogressbar.res"
+"Resource/UI/ControlPointProgressBar.res"
 {
 	"ControlPointProgressBar"
 	{

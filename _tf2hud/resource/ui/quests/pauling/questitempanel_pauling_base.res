@@ -1,11 +1,11 @@
-#base "../questitempanel_base.res"
+#base "..\QuestItemPanel_Base.res"
 
-"resource/ui/econ/questitempanel.res"
+"Resource/UI/econ/QuestItemPanel.res"
 {
 	"QuestItemPanel"
 	{
-		"TrackerPanelResFile"	"resource/ui/quests/pauling/questitemtrackerpanel_questlog.res"	
-		"ItemAttributeResFile"	"resource/ui/quests/pauling/questobjectivepanel_questlog.res"
+		"TrackerPanelResFile"	"resource/UI/quests/pauling/QuestItemTrackerPanel_QuestLog.res"	
+		"ItemAttributeResFile"	"resource/UI/quests/pauling/QuestObjectivePanel_QuestLog.res"
 
 		"folders"
 		{

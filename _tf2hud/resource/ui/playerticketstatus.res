@@ -1,4 +1,4 @@
-"resource/ui/playerticketstatus.res"
+"Resource/UI/PlayerTicketStatus.res"
 {
 	"AvatarImage"
 	{

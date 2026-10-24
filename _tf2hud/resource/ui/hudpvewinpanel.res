@@ -1,4 +1,4 @@
-"resource/ui/hudpvewinpanel.res"
+"Resource/UI/hudpvewinpanel.res"
 {
 	"WinPanelBG"
 	{

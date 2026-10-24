@@ -1,4 +1,4 @@
-"resource/ui/hudspellselection.res"
+"Resource/UI/HudSpellSelection.res"
 {		
 	HudSpellMenu
 	{

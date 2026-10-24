@@ -1,4 +1,4 @@
-"resource/ui/confirmapplyteamcolorpaintcandialog.res"
+"Resource/UI/ConfirmApplyTeamColorPaintCanDialog.res"
 {
 	"ConfirmApplyTeamColorPaintCanDialog"
 	{

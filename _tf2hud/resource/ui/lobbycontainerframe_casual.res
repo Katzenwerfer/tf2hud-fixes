@@ -1,6 +1,6 @@
-#base "lobbycontainerframe.res"
+#base "LobbyContainerFrame.res"
 
-"resource/ui/lobbycontainerframe_casual.res"
+"Resource/UI/LobbyContainerFrame_Casual.res"
 {
 	"StartPartyButton"
 	{

@@ -1,4 +1,4 @@
-"resource/ui/confirmapplycardupgradeapplicationdialog.res"
+"Resource/UI/ConfirmApplyCardUpgradeApplicationDialog.res"
 {
 	"ConfirmApplyCardUpgradeApplicationDialog"
 	{
