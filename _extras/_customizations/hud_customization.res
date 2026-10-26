@@ -46,7 +46,7 @@
 #base "hud_customization_targetid.res"
 
 //==============================================================
-// TARGET ID HEALTH
+// CHAT POSITION
 //==============================================================
 #base "hud_customization_chat_position.res"
 
